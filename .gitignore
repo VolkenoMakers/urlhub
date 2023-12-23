@@ -1,7 +1,7 @@
 /.tmp
-public/css/*
-public/js/*
-public/mix-manifest.json
+# public/css/*
+# public/js/*
+# public/mix-manifest.json
 
 ## IDE Local Workspace Folder
 /.idea
@@ -10,13 +10,13 @@ public/mix-manifest.json
 ## Laravel
 .env
 .env.backup
-.env.production
-/public/*/*.map
-/public/build
-/public/hot
+# .env.production
+# /public/*/*.map
+# /public/build
+# /public/hot
 /public/storage
 /storage/*.key
-auth.json
+# auth.json
 Homestead.json
 Homestead.yaml
 
